@@ -1,24 +1,19 @@
-# README
+# Rails turbolink
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### meta
+	<meta name='turbolinks-cache-control' content='no-cache'>
+	<meta name="turbolinks-root" content="/app">
 
-Things you may want to cover:
+### event
+	turbolinks:click
+	turbolinks:before-visit
+	turbolinks:request-start
+	turbolinks:visit
+	turbolinks:before-cache
+	turbolinks:before-render
+	turbolinks:render
+	turbolinks:request-end
+	turbolinks:before-render
+	turbolinks:render
+	turbolinks:load
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
